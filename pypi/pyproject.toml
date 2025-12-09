@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "apiverve-mcp"
 version = "1.0.1"
-description = "APIVerve MCP Server - Access 249+ APIs through the Model Context Protocol"
+description = "APIVerve MCP Server - Access 306+ APIs through the Model Context Protocol"
 readme = "README.md"
 authors = [{name = "APIVerve", email = "hello@apiverve.com"}]
 license = {text = "MIT"}
